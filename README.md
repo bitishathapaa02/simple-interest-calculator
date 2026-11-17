@@ -25,4 +25,4 @@ Technologies Used
 Basic programming concepts
 Author
 
-Your Name
+Bitisha Thapa
